@@ -1,6 +1,6 @@
 # secure_auth.py
-"""Secure Password Generation & MFA Assignment
-Enhanced with granular feedback, dual recommendations, and OTP‑based MFA.
+"""Secure Password Generation & MFA Final Project
+Added granular feedback, dual recommendations, and OTP‑based MFA.
 """
 
 import secrets
