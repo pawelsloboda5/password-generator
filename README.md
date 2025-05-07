@@ -1,5 +1,7 @@
 # Secure Auth Utility
 
+Github URL: https://github.com/pawelsloboda5/password-generator
+
 A self‑contained Python CLI that lets users:
 
 1. **Generate** cryptographically secure passwords
